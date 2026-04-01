@@ -16,3 +16,9 @@
 - Clasification Model
 - MCDA Model
 ```
+
+### Compute Vision - Projects:
+1. Object Detection ( YOLO )
+2. Tracking
+3. Action Detection
+4. Anomalies Detection
